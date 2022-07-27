@@ -12,29 +12,29 @@ Ph.D candidate at PRSLab/Photolab LSGI, PolyU, supervised by Prof.Bo Wu.
 
 Email: zhaojin.li@connect.polyu.hk
 
-## Biography
+## - Biography
 Zhaojin Li received her bachelor degree in 2019
 from the department of remote sensing, Wuhan University.
 
 
-## Research Interests
+## - Research Interests
 Photogrammetry, Computer Vision, 3D Reconstruction, Planetary Science.
 
-## Publications 
+## - Publications 
 ### Conference Publications
 1. **Zhaojin Li<sup>#</sup>**, Bo Wu<sup>#</sup>, Xun Jian, Alexander Zhou, Lei Chen. <font color="blue">"Integrated Photogrammetric and Photoclinometric Processing of Multiple HRSC Images for Pixelwise 3-D Mapping on Mars".</font> _IEEE Transactions on Geoscience and Remote Sensing_(**TGRS**), 2022.
 
 
-### Journal Publications
+### - Journal Publications
 1. 
 2. 
 
-## Research Projects
+## - Research Projects
 - **Principal Investigator**, 
 - **Principal Investigator**, 
 
-## Teaching Experience
+## - Teaching Experience
 - 
 
-## Honors and Awards
+## - Honors and Awards
 - Outstanding Graduate from Wuhan University, Jun 2019.
