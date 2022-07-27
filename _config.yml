@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yue Wang's Homepage"
-title_separator          : "-"
-name                     : &name "Yue Wang"
-description              : &description "Research Fellow at Shenzhen Institute of Computing Sciences"
+title                    : "Zhaojin Li's Homepage"
+#title_separator          : "Ph.D. Candidate"
+name                     : &name "Zhaojin Li"
+description              : &description "Ph.D. Candidate"
 url                      : https://keithyue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "keithyue.github.io"
+repository               : "JessieLi-RS.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 240
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yue Wang 王 越"
-  avatar           : "yue_wang_small.jpg"
-  bio              : "Research Fellow at Shenzhen Institute of Computing Sciences"
-  location         : "Shenzhen, China"
+  name             : "Zhaojin Li 李兆津"
+  avatar           : "LiZJ.jpg"
+  bio              : "Ph.D Candidate at LSGI, PolyU"
+  location         : "Hong Kong, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=Rx1RmHMAAAAJ&hl=en"
-  email            : "ywangby@connect.ust.hk"
+  #googlescholar    : "https://scholar.google.com.hk/citations?user=Rx1RmHMAAAAJ&hl=en"
+  email            : "zhaojin.li@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "KeithYue"
+  github           : "JessieLi-RS"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-8618-9806"
+  orcid            : "https://orcid.org/0000-0002-8209-5749"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
