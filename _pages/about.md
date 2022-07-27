@@ -22,17 +22,16 @@ Photogrammetry, Computer Vision, 3D Reconstruction, Planetary Science.
 
 ## Publications 
 ### Conference Publications
-1. **Zhaojin Li<sup>#</sup>**, Bo Wu<sup>#</sup>, Xun Jian, Alexander Zhou, Lei Chen. <font color="blue">"Towards Distributed Bitruss Decomposition on Bipartite Graphs".</font> _The 48th International Conference on Very Large Data Bases_(**VLDB**), 2022.
+1. **Zhaojin Li<sup>#</sup>**, Bo Wu<sup>#</sup>, Xun Jian, Alexander Zhou, Lei Chen. <font color="blue">"Integrated Photogrammetric and Photoclinometric Processing of Multiple HRSC Images for Pixelwise 3-D Mapping on Mars".</font> _IEEE Transactions on Geoscience and Remote Sensing_(**TGRS**), 2022.
 
 
 ### Journal Publications
-1. Xun Jian, **Yue Wang<sup>*</sup>**, Lei Chen. <font color="blue">"Publishing Graphs under Node Differential Privacy"</font>. _IEEE Transactions on Knowledge and 
+1. 
 2. 
 
 ## Research Projects
-- **Principal Investigator**, "Research on key techniques of similarity search on large-scale dynamic knowledge graphs", National Natural Science Foundation of China, 01/2021-12/2023.
-- **Principal Investigator**, "Data mining techniques on big knowledge graphs", Guangdong Basic and Applied Basic Research Foundation, 01/2020-12/2022.
-
+- **Principal Investigator**, 
+- **Principal Investigator**, 
 
 ## Teaching Experience
 - 
