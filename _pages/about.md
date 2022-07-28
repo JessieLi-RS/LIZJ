@@ -21,17 +21,18 @@ from the department of remote sensing, Wuhan University.
 Photogrammetry, Computer Vision, 3D Reconstruction, Planetary Science.
 
 ## - Publications 
+### Journal Publications
+1. **Zhaojin Li**, Bo Wu<sup>#</sup>, Wai Chung Liu, Long Chen, Hongliang Li, Jie Dong, Wei Rao, Dong Wang, Qingyu Meng, Jihong Dong.<font color="blue">"Photogrammetric Processing of Tianwen-1 HiRIC Imagery for Precision Topographic Mapping on Mars".</font> _IEEE Transactions on Geoscience and Remote Sensing_(**TGRS**), 2022.
+2. **Zhaojin Li**, Bo Wu<sup>#</sup>, Wai Chung Liu, Zeyu Chen. <font color="blue">"Integrated Photogrammetric and Photoclinometric Processing of Multiple HRSC Images for Pixelwise 3-D Mapping on Mars".</font> _IEEE Transactions on Geoscience and Remote Sensing_(**TGRS**), 2022.
+
+
 ### Conference Publications
-1. **Zhaojin Li<sup>#</sup>**, Bo Wu<sup>#</sup>, Xun Jian, Alexander Zhou, Lei Chen. <font color="blue">"Integrated Photogrammetric and Photoclinometric Processing of Multiple HRSC Images for Pixelwise 3-D Mapping on Mars".</font> _IEEE Transactions on Geoscience and Remote Sensing_(**TGRS**), 2022.
-
-
-### - Journal Publications
 1. 
 2. 
 
 ## - Research Projects
-- **Principal Investigator**, 
-- **Principal Investigator**, 
+- 
+- 
 
 ## - Teaching Experience
 - 
