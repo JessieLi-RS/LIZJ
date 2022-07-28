@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Ph.D candidate at PRSLab/Photolab LSGI, PolyU, supervised by Prof.Bo Wu.
+Ph.D candidate at PRSLab/Photolab LSGI, PolyU, supervised by Prof.Bo Wu (http://www.lsgi.polyu.edu.hk/staff/Bo.Wu/index.htm).
 
 Email: zhaojin.li@connect.polyu.hk
 
