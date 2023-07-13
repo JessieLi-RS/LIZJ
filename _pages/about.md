@@ -8,6 +8,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Zhaojin Li's Homepage
+
 ## - Biography
 Zhaojin Li received her bachelor's degree in 2019 from the Department of Remote Sensing, Wuhan University. She is now a Ph.D. candidate at PRSLab/Photolab LSGI, HKPolyU, supervised by Prof.Bo Wu (http://www.lsgi.polyu.edu.hk/staff/Bo.Wu/index.htm). 
 
