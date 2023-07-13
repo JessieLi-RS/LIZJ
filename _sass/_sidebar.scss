@@ -31,7 +31,7 @@
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
-    margin-left: 10px;
+    margin-left: 20px;
     font-family: $sans-serif-narrow;
   }
 
@@ -73,7 +73,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 60px;
+  width: 100px;
   // set width only, for non-square avatars
   height: 100apx;
 
@@ -127,7 +127,7 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
+    margin-top: 20px;
     margin-bottom: 20px;
   }
 }
