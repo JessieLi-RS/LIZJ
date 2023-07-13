@@ -27,25 +27,3 @@
     }
   }
 }
-
-.masthead__menu {
-
-  background-color: $blue;
-
-  ul {
-    margin: 0;
-    padding: 0;
-    clear: both;
-    list-style-type: none;
-  }
-}
-
-.masthead__menu-item {
-
-  background-color: $blue;
-
-  &--lg {
-    padding-right: 2em;
-    font-weight: 1000;
-  }
-}
