@@ -13,7 +13,7 @@ Zhaojin Li received her bachelor's degree in 2019 from the Department of Remote 
 
 
 ## - Research Interests
-Photogrammetry, Computer Vision, 3D Reconstruction, Planetary Science.
+Photogrammetry, Satellite Remote Sensing, Computer Vision, 3D Reconstruction, Planetary Science.
 
 ## - Publications 
 ### Journal Publications
