@@ -190,6 +190,12 @@ collections:
   Mars:
     output: true
     permalink: /:collection/:path/
+  Lunar:
+    output: true
+    permalink: /:collection/:path/
+  Earth:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
