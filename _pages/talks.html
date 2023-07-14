@@ -19,7 +19,10 @@ author_profile: true
 <br/>
 <h1 id="mars"><font color="#8B0000">  Mars </font></h1>
 <hr>
-{% include archive-single-talk.html %}
+  {% for post in site.Mars reversed %}
+    {% include archive-single-talk.html %}
+  {% endfor %}
+
 
 <br/>
 <br/>
@@ -31,5 +34,5 @@ author_profile: true
 
   {% for post in site.talks reversed %}
     {% include archive-single-talk.html %}
-  {% endfor %
+  {% endfor %}
 
