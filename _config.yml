@@ -256,7 +256,7 @@ defaults:
   # _Mars
   - scope:
       path: ""
-      type: talks
+      type: Mars
     values:
       layout: talk
       author_profile: true
