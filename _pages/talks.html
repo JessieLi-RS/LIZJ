@@ -21,7 +21,7 @@ author_profile: true
 <hr>
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
-{% for post in site.Mars %}
+{% for post in site.Mars reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
