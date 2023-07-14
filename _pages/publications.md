@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## <font color=#00008B> Our Earth </font>
+## <font color="#00008B"> Our Earth </font>
 ---
 ### - Introducing the Backpack Images
 
@@ -15,9 +15,9 @@ author_profile: true
 ## Deep Space Exploration
 Last decades
 ---
-### - <font color=#696969> Lunar </font>
+### - <font color="#696969"> Lunar </font>
 
-### - <font color=#8B0000> Mars </font>
+### - <font color="#8B0000"> Mars </font>
 - ESA HRSC Data Processing
 
 - Chinese HiRIC  Data Processing
