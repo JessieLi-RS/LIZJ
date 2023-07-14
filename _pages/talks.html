@@ -19,8 +19,6 @@ author_profile: true
 <br/>
 <h1 id="mars"><font color="#8B0000">  Mars </font></h1>
 <hr>
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
 {% for post in site.Mars reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
@@ -33,7 +31,6 @@ author_profile: true
 <h3 id="---ce4">- CE4</h3>
 
 <h3 id="---ce5">- CE5</h3>
-
   {% for post in site.talks reversed %}
     {% include archive-single-talk.html %}
   {% endfor %}
