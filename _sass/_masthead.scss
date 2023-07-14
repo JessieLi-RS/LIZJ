@@ -14,16 +14,19 @@
 
   &__inner-wrap {
 
+    background-color: $blue;
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
 
     nav {
+      background-color: $blue;
       z-index: 15;
     }
 
     a {
+      background-color: $blue;
       text-decoration: none;
     }
   }
