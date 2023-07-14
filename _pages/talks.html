@@ -11,9 +11,9 @@ author_profile: true
   <font color="#00008B"> Our Earth </font>
 </h1>
 <hr>
-<h3 id="--introducing-the-backpack-images">- Introducing the Backpack Images</h3>
-
-<h3 id="--integration-of-multi-source-data">- Integration of Multi-source Data</h3>
+  {% for post in site.Earth reversed %}
+    {% include archive-single-talk.html %}
+  {% endfor %}
 
 <br/>
 <br/>
