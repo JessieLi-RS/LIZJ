@@ -11,7 +11,7 @@ redirect_from:
 # About Me
 
 ## - Biography
-I received my bachelor's degree in 2019 from the Department of Remote Sensing, Wuhan University. I am now a Ph.D. candidate at PRSLab/Photolab LSGI, HKPolyU, supervised by Prof.Bo Wu (http://www.lsgi.polyu.edu.hk/staff/Bo.Wu/index.htm). 
+I received my bachelor's degree in 2019 from the Department of Remote Sensing, Wuhan University. I am now a Ph.D. candidate at PRSLab/Photolab LSGI, HKPolyU, supervised by Prof.Bo Wu ([link]http://www.lsgi.polyu.edu.hk/staff/Bo.Wu/index.htm). 
 
 
 ## - Research Interests
