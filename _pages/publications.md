@@ -15,7 +15,7 @@ author_profile: true
 ### - Lunar
 
 ### - Mars
-· ESA HRSC Data Processing
+- ESA HRSC Data Processing
 
-· Chinese HiRIC  Data Processing
+- Chinese HiRIC  Data Processing
 
