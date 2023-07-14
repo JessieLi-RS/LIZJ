@@ -13,7 +13,6 @@ author_profile: true
 ### - Integration of Multi-source Data
 
 ## Deep Space Exploration
-Last decades
 ---
 ### - <font color="#696969"> Lunar </font>
 
