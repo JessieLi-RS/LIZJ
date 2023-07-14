@@ -14,7 +14,7 @@ author_profile: true
 
 ## Deep Space Exploration
 ---
-### - <font color="#696969"> Lunar </font>
+### - <font color="#FFE4B5"> Lunar </font>
 
 ### - <font color="#8B0000"> Mars </font>
 - ESA HRSC Data Processing
