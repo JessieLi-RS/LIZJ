@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "My Research"
-permalink: /Mars/
+permalink: /talks/
 author_profile: true
 ---
 <br/>
@@ -19,9 +19,16 @@ author_profile: true
 <br/>
 <h1 id="mars"><font color="#8B0000">  Mars </font></h1>
 <hr>
-  {% for post in site.Mars reversed %}
-    {% include archive-single-talk.html %}
-  {% endfor %}
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 <br/>
