@@ -30,7 +30,7 @@ Photogrammetry, Satellite Remote Sensing, Computer Vision, 3D Reconstruction, Pl
 9.  Bo Wu<sup>#</sup>, Jie Dong, Yiran Wang, **Zhaojin Li**, Zeyu Chen, Wai Chung Liu, Jiaming Zhu, Long Chen, Yuan Li, Wei Rao. <font color="blue"> Characterization of the Candidate Landing Region for Tianwen-1 – China’s First Mission to Mars". </font> _Earth and Space Science_(**ESS**),2021.
 
 ### Conference Publications
-1. **Zhaojin Li**, Bo Wu<sup>#</sup>, Zeyu Chen, Yuan Ma, 2023. <font color="blue">"Transformer-based Method for Semantic Segmentation and Reconstruction of the Martian Surface".<font color="blue"> _International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences_
+1. **Zhaojin Li**, Bo Wu<sup>#</sup>, Zeyu Chen, Yuan Ma, 2023. <font color="blue">"Transformer-based Method for Semantic Segmentation and Reconstruction of the Martian Surface".</font> _International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences_
 2. **Zhaojin Li**, Bo Wu<sup>#</sup>, Yuan Li, 2020. <font color="blue">"Integration of Aerial, MMS, and Backpack Images for Seamless 3D Mapping in Urban Areas".</font> _International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences_,  Vol. XLIII-B2-2020, pp. 443-449, doi:10.5194/isprs-archives-XLIII-B2-2020-443-2020.
 
 
