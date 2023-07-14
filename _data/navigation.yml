@@ -2,5 +2,22 @@
  main:
   - title: "Research"
     url: /publications/
+    
+  - title: ""
+    url: /talks/    
 
+  - title: ""
+    url: /teaching/    
+    
+  - title: ""
+    url: /portfolio/
+        
+  - title: ""
+    url: /year-archive/
+    
+  - title: ""
+    url: /cv/
+    
+  - title: ""
+    url: /markdown/
  
