@@ -6,16 +6,7 @@ date: 2023-07-15
 Journal: "Archives of the ISPRS"
 ---
 
-The ***High Resolution Stereo Camera (HRSC)*** is a pushbroom camera onboard Mars Express providing valuable data for the topographic mapping of the Martian surface [1]. After almost 20 years’ operation in orbit, the HRSC has recorded observations for approximately 95% of the Martian surface. The three-dimensional (3D) mapping of the Martian surface from HRSC images may offer global mapping products. However, some challenging regions suffering from either the Martian sandstorm or the low-quality of the images, 
-Furthermore, pixel-wise 3D reconstruction based on the HRSC images is seldom discussed.
+The Zhurong rover...
 
 # Contributions
-- Propose a semantic-based algorithm to recover the 3D information inside the craters for low-quality images
-- Propose a multi-image SfS algorithm implemented in the TensorFlow framework, to optimize the albedo, optical depth and DEM simultaneously。
-
-
-## DEM Generation based on the Photogrammetric Process
-
-
-## DEM Refinement based on the Photoclinometric Process
 
